@@ -8,14 +8,12 @@ Hi! This is a polished, ready-to-customize GitHub profile README to showcase you
 ---
 
 ## ✨ About Me
-I'm a [Your Profession — e.g., Software Engineer, Data Scientist] who loves building things that make an impact. I enjoy working across the stack, from designing resilient systems to crafting delightful user experiences. I care about clean code, thoughtful architecture, and shipping value early.
+I'm a AI Developer who loves building things that make an impact. I enjoy working across the stack, from designing resilient systems to crafting delightful user experiences. I care about clean code, thoughtful architecture, and shipping value early.
 
-- 🔭 I’m currently working on: **[Project Name]** — a short one-line description
-- 🌱 I’m learning: **[Tech / Topic]**
-- 👯 I’m open to collaborating on: projects involving **[topics]**
-- 💬 Ask me about: **[topics you enjoy discussing]**
-- ⚡ Fun fact: **[one quirky personal fact]**
-
+- 🔭 I’m currently working on: AI MATH TUTOR — a short one-line description
+- 🌱 I’m learning: AI
+- 👯 I’m open to collaborating on: projects involving AI
+- 💬 Ask me about: GenAI
 ---
 
 ## 🛠️ Tech Stack & Tools
